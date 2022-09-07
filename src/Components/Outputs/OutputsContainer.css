@@ -1,0 +1,8 @@
+.outputs-container{
+  background-color: white;
+  margin:25px auto;
+  width:50vw;
+  min-height:25vh;
+  border-radius: 10px;
+  overflow: hidden;
+}

@@ -1,0 +1,11 @@
+.output-texto-container {
+  margin: 0 auto;
+  padding-top: 15px;
+  width: 80%;
+  padding-bottom:30px;
+}
+.output-texto {
+  border: 1px gray solid;
+  padding:10px;
+  font-weight: 500;
+}
