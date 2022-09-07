@@ -14,7 +14,7 @@ const App = () => {
   return (
     <div className="main-div">
       <InputsContainer onAddUser={addUserHandler} />
-      <OutputsContainer users={users} />
+      {users.length && <OutputsContainer users={users} />}
     </div>
   );
 };
